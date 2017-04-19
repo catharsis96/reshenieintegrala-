@@ -1,0 +1,27 @@
+C:\Users\VIT\Documents\Visual Studio 2008\Projects\Reshenie Integrala (Metod Trapecii)\Reshenie Integrala (Metod Trapecii)\bin\Debug\Reshenie Integrala (Metod Trapecii).exe
+C:\Users\VIT\Documents\Visual Studio 2008\Projects\Reshenie Integrala (Metod Trapecii)\Reshenie Integrala (Metod Trapecii)\bin\Debug\Reshenie Integrala (Metod Trapecii).pdb
+C:\Users\VIT\Documents\Visual Studio 2008\Projects\Reshenie Integrala (Metod Trapecii)\Reshenie Integrala (Metod Trapecii)\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\VIT\Documents\Visual Studio 2008\Projects\Reshenie Integrala (Metod Trapecii)\Reshenie Integrala (Metod Trapecii)\obj\Debug\Reshenie_Integrala__Metod_Trapecii_.Form1.resources
+C:\Users\VIT\Documents\Visual Studio 2008\Projects\Reshenie Integrala (Metod Trapecii)\Reshenie Integrala (Metod Trapecii)\obj\Debug\Reshenie_Integrala__Metod_Trapecii_.Form2.resources
+C:\Users\VIT\Documents\Visual Studio 2008\Projects\Reshenie Integrala (Metod Trapecii)\Reshenie Integrala (Metod Trapecii)\obj\Debug\Reshenie_Integrala__Metod_Trapecii_.Properties.Resources.resources
+C:\Users\VIT\Documents\Visual Studio 2008\Projects\Reshenie Integrala (Metod Trapecii)\Reshenie Integrala (Metod Trapecii)\obj\Debug\Reshenie Integrala (Metod Trapecii).csproj.GenerateResource.Cache
+C:\Users\VIT\Documents\Visual Studio 2008\Projects\Reshenie Integrala (Metod Trapecii)\Reshenie Integrala (Metod Trapecii)\obj\Debug\Reshenie Integrala (Metod Trapecii).exe
+C:\Users\VIT\Documents\Visual Studio 2008\Projects\Reshenie Integrala (Metod Trapecii)\Reshenie Integrala (Metod Trapecii)\obj\Debug\Reshenie Integrala (Metod Trapecii).pdb
+C:\Users\Пряник\Desktop\Reshenie Integrala (Metod Trapecii)\Reshenie Integrala (Metod Trapecii)\obj\Debug\Reshenie Integrala (Metod Trapecii).exe
+C:\Users\Пряник\Desktop\Reshenie Integrala (Metod Trapecii)\Reshenie Integrala (Metod Trapecii)\obj\Debug\Reshenie Integrala (Metod Trapecii).pdb
+C:\Users\Пряник\Desktop\Reshenie Integrala (Metod Trapecii)\Reshenie Integrala (Metod Trapecii)\bin\Debug\Reshenie Integrala (Metod Trapecii).exe
+C:\Users\Пряник\Desktop\Reshenie Integrala (Metod Trapecii)\Reshenie Integrala (Metod Trapecii)\bin\Debug\Reshenie Integrala (Metod Trapecii).pdb
+C:\Users\Пряник\Desktop\Reshenie Integrala (Metod Trapecii)\Reshenie Integrala (Metod Trapecii)\obj\Debug\Reshenie Integrala (Metod Trapecii).csprojResolveAssemblyReference.cache
+C:\Users\Пряник\Desktop\Reshenie Integrala (Metod Trapecii)\Reshenie Integrala (Metod Trapecii)\obj\Debug\Reshenie_Integrala__Metod_Trapecii_.Form1.resources
+C:\Users\Пряник\Desktop\Reshenie Integrala (Metod Trapecii)\Reshenie Integrala (Metod Trapecii)\obj\Debug\Reshenie_Integrala__Metod_Trapecii_.Form2.resources
+C:\Users\Пряник\Desktop\Reshenie Integrala (Metod Trapecii)\Reshenie Integrala (Metod Trapecii)\obj\Debug\Reshenie_Integrala__Metod_Trapecii_.Properties.Resources.resources
+C:\Users\Пряник\Desktop\Reshenie Integrala (Metod Trapecii)\Reshenie Integrala (Metod Trapecii)\obj\Debug\Reshenie Integrala (Metod Trapecii).csproj.GenerateResource.Cache
+C:\Users\Alex\code\reshenie integrala (metod trapecii)\Reshenie Integrala (Metod Trapecii)\Reshenie Integrala (Metod Trapecii)\bin\Debug\Reshenie Integrala (Metod Trapecii).exe
+C:\Users\Alex\code\reshenie integrala (metod trapecii)\Reshenie Integrala (Metod Trapecii)\Reshenie Integrala (Metod Trapecii)\bin\Debug\Reshenie Integrala (Metod Trapecii).pdb
+C:\Users\Alex\code\reshenie integrala (metod trapecii)\Reshenie Integrala (Metod Trapecii)\Reshenie Integrala (Metod Trapecii)\obj\Debug\Reshenie Integrala (Metod Trapecii).csprojResolveAssemblyReference.cache
+C:\Users\Alex\code\reshenie integrala (metod trapecii)\Reshenie Integrala (Metod Trapecii)\Reshenie Integrala (Metod Trapecii)\obj\Debug\Reshenie_Integrala__Metod_Trapecii_.Form1.resources
+C:\Users\Alex\code\reshenie integrala (metod trapecii)\Reshenie Integrala (Metod Trapecii)\Reshenie Integrala (Metod Trapecii)\obj\Debug\Reshenie_Integrala__Metod_Trapecii_.Form2.resources
+C:\Users\Alex\code\reshenie integrala (metod trapecii)\Reshenie Integrala (Metod Trapecii)\Reshenie Integrala (Metod Trapecii)\obj\Debug\Reshenie_Integrala__Metod_Trapecii_.Properties.Resources.resources
+C:\Users\Alex\code\reshenie integrala (metod trapecii)\Reshenie Integrala (Metod Trapecii)\Reshenie Integrala (Metod Trapecii)\obj\Debug\Reshenie Integrala (Metod Trapecii).csproj.GenerateResource.Cache
+C:\Users\Alex\code\reshenie integrala (metod trapecii)\Reshenie Integrala (Metod Trapecii)\Reshenie Integrala (Metod Trapecii)\obj\Debug\Reshenie Integrala (Metod Trapecii).exe
+C:\Users\Alex\code\reshenie integrala (metod trapecii)\Reshenie Integrala (Metod Trapecii)\Reshenie Integrala (Metod Trapecii)\obj\Debug\Reshenie Integrala (Metod Trapecii).pdb
